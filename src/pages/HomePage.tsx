@@ -186,7 +186,7 @@ export default function HomePage() {
           plans={[
             {
               tag: "Couples Session",
-              price: "$450",
+              price: "$175",
               description: "Ideal for beach engagements, proposals, weddings, and anniversaries along North Myrtle Beach.",
               features: [
                 "60-minute sunset or sunrise flight",
@@ -199,7 +199,7 @@ export default function HomePage() {
             },
             {
               tag: "Real Estate Listing",
-              price: "$650",
+              price: "$500",
               highlight: "Most Popular",
               description: "Comprehensive aerial showcase for oceanfront homes, beach villas, and luxury condos.",
               features: [
@@ -213,7 +213,7 @@ export default function HomePage() {
             },
             {
               tag: "Land & Acreage Survey",
-              price: "$850",
+              price: "$600",
               description: "High-precision aerial mapping for land parcels, acreage, and development sites.",
               features: [
                 "Complete perimeter boundary footage",
