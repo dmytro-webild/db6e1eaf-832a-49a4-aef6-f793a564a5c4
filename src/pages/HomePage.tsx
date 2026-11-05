@@ -264,7 +264,7 @@ export default function HomePage() {
           textAnimation="fade-blur"
           tag="Get In Touch"
           title="Schedule Your Aerial Session"
-          description="Ready to bring your coastal vision to life? Contact VerticalLensAviation.com in North Myrtle Beach, SC today to reserve your flight date for couples sessions, property listings, or land survey flights."
+          description="Ready to bring your coastal vision to life? Contact VerticalLensAviation.com in North Myrtle Beach, SC today at (843) 742-4439 or email amchestnut2015@gmail.com to reserve your flight date for couples sessions, property listings, or land survey flights."
           imageSrc="https://storage.googleapis.com/webild/default/templates/marbella/contact/cta-bg.webp"
           inputs={[
             { name: "name", type: "text", placeholder: "Your Name", required: true },
@@ -280,8 +280,8 @@ export default function HomePage() {
           }}
           buttonText="Send Flight Request"
           ctaLinks={[
-            { icon: "Phone", label: "Call: (843) 555-DRONE", href: "tel:8435553766" },
-            { icon: "Mail", label: "info@verticallensaviation.com", href: "mailto:info@verticallensaviation.com" },
+            { icon: "Phone", label: "(843) 742-4439", href: "tel:8437424439" },
+            { icon: "Mail", label: "amchestnut2015@gmail.com", href: "mailto:amchestnut2015@gmail.com" },
             { icon: "MapPin", label: "North Myrtle Beach, SC 29582", href: "#" },
           ]}
         />
