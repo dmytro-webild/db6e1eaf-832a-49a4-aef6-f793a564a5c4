@@ -53,6 +53,14 @@ export default function Layout() {
                       { label: "Book a Flight", href: "#contact" },
                     ],
                   },
+                  {
+                    title: "Contact Us",
+                    items: [
+                      { label: "(843) 742-4439", href: "tel:8437424439" },
+                      { label: "amchestnut2015@gmail.com", href: "mailto:amchestnut2015@gmail.com" },
+                      { label: "North Myrtle Beach, SC", href: "#contact" },
+                    ],
+                  },
                 ]}
                 copyright="© 2026 VerticalLensAviation.com. North Myrtle Beach, SC. All rights reserved."
                 links={[
