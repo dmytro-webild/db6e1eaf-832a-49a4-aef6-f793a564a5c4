@@ -64,7 +64,7 @@ export default function HomePage() {
               title: "Land Parcels & Commercial Acreage",
               description: "Detailed aerial survey imagery and boundary footage for land developers, real estate investors, and acreage buyers across Horry County and coastal South Carolina.",
               tags: ["Acreage Mapping", "Boundary Aerials", "Development Plots", "Topographic Views"],
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/landscaping/hero.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/hotel/rooms/gardenvilla.webp",
             },
           ]}
         />
@@ -82,7 +82,7 @@ export default function HomePage() {
               description: "4K sunset drone capture over the crashing waves at Cherry Grove Pier.",
               buttonIcon: ArrowUpRight,
               buttonHref: "#contact",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/luxury-travel-agency/hero/hero1.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3LfZxSnU9hSlEaOYXn1eBLHqAHe/uploaded-1793908276550-2f1fkli6.jpg",
             },
             {
               title: "Ocean Drive Beach Villa Flyover",
@@ -103,7 +103,7 @@ export default function HomePage() {
               description: "High-resolution land plot aerial mapping along the salt marsh waterway.",
               buttonIcon: ArrowUpRight,
               buttonHref: "#contact",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/landscaping/img-2.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/default/templates/marbella/properties/villa-5.webp",
             },
             {
               title: "Barefoot Landing & Coastal Horizon",
