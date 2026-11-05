@@ -20,7 +20,7 @@ export default function HomePage() {
           textAnimation="fade-blur"
           tag="North Myrtle Beach Aerial Videography & Photography"
           title="Elevate Every Horizon in North Myrtle Beach"
-          description="Vertical Lens Aviation delivers breathtaking 4K & 8K drone footage for romantic couple sessions, coastal scenery, luxury oceanfront real estate, and sprawling land parcels across North Myrtle Beach, SC."
+          description="VerticalLensAviation.com delivers breathtaking 4K & 8K drone footage for romantic couple sessions, coastal scenery, luxury oceanfront real estate, and sprawling land parcels across North Myrtle Beach, SC."
           primaryButton={{ text: "Book Drone Session", href: "#contact" }}
           secondaryButton={{ text: "Explore Specialties", href: "#specialties" }}
           videoSrc="https://storage.googleapis.com/webild/default/templates/marbella/hero/hero.mp4"
@@ -165,7 +165,7 @@ export default function HomePage() {
       <div id="testimonials" data-section="testimonials">
         <TestimonialTrustCard
           textAnimation="fade-blur"
-          quote="Vertical Lens Aviation captured our engagement on North Myrtle Beach during golden hour. The drone shot sweeping over the ocean waves with Cherry Grove Pier in the background was breathtaking. Highly recommend for any couple, property listing, or land survey!"
+          quote="VerticalLensAviation.com captured our engagement on North Myrtle Beach during golden hour. The drone shot sweeping over the ocean waves with Cherry Grove Pier in the background was breathtaking. Highly recommend for any couple, property listing, or land survey!"
           rating={5}
           author="— Jessica & Dave K., North Myrtle Beach Couple Session"
           avatars={[
@@ -264,7 +264,7 @@ export default function HomePage() {
           textAnimation="fade-blur"
           tag="Get In Touch"
           title="Schedule Your Aerial Session"
-          description="Ready to bring your coastal vision to life? Contact Vertical Lens Aviation in North Myrtle Beach, SC today to reserve your flight date for couples sessions, property listings, or land survey flights."
+          description="Ready to bring your coastal vision to life? Contact VerticalLensAviation.com in North Myrtle Beach, SC today to reserve your flight date for couples sessions, property listings, or land survey flights."
           imageSrc="https://storage.googleapis.com/webild/default/templates/marbella/contact/cta-bg.webp"
           inputs={[
             { name: "name", type: "text", placeholder: "Your Name", required: true },

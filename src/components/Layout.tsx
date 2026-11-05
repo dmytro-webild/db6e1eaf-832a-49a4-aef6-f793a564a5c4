@@ -10,7 +10,7 @@ export default function Layout() {
     <StyleProvider buttonVariant="default" siteBackground="none" heroBackground="none">
       <SiteBackgroundSlot />
       <NavbarDropdown
-                logo="Vertical Lens Aviation"
+                logo="VerticalLensAviation.com"
                 navItems={[
                   { name: "Specialties", href: "#specialties" },
                   { name: "Local Scenery", href: "#local-scenery" },
@@ -24,7 +24,7 @@ export default function Layout() {
         <Outlet />
       </main>
       <FooterSimpleReveal
-                brand="Vertical Lens Aviation"
+                brand="VerticalLensAviation.com"
                 columns={[
                   {
                     title: "Specialties",
@@ -54,7 +54,7 @@ export default function Layout() {
                     ],
                   },
                 ]}
-                copyright="© 2026 Vertical Lens Aviation. North Myrtle Beach, SC. All rights reserved."
+                copyright="© 2026 VerticalLensAviation.com. North Myrtle Beach, SC. All rights reserved."
                 links={[
                   { label: "FAA Compliance", href: "#specs" },
                   { label: "Privacy Policy", href: "#" },
