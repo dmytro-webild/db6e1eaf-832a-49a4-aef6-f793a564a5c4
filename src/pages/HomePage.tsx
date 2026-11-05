@@ -103,7 +103,7 @@ export default function HomePage() {
               description: "High-resolution land plot aerial mapping along the salt marsh waterway.",
               buttonIcon: ArrowUpRight,
               buttonHref: "#contact",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/marbella/properties/villa-5.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3LfZxSnU9hSlEaOYXn1eBLHqAHe/uploaded-1793909843782-2542a7lg.jpg",
             },
             {
               title: "Barefoot Landing & Coastal Horizon",
