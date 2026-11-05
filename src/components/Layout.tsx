@@ -10,51 +10,53 @@ export default function Layout() {
     <StyleProvider buttonVariant="default" siteBackground="none" heroBackground="none">
       <SiteBackgroundSlot />
       <NavbarDropdown
-                logo="Webild"
+                logo="Vertical Lens Aviation"
                 navItems={[
-                  { name: "Services", href: "#services" },
-                  { name: "Work", href: "#work" },
-                  { name: "Team", href: "#team" },
+                  { name: "Specialties", href: "#specialties" },
+                  { name: "Local Scenery", href: "#local-scenery" },
+                  { name: "Flight Specs", href: "#specs" },
+                  { name: "Pricing", href: "#pricing" },
                   { name: "Contact", href: "#contact" },
                 ]}
-                ctaButton={{ text: "Start Project", href: "#contact" }}
+                ctaButton={{ text: "Book Flight", href: "#contact" }}
               />
       <main className="flex-grow">
         <Outlet />
       </main>
       <FooterSimpleReveal
-                brand="Webild"
+                brand="Vertical Lens Aviation"
                 columns={[
                   {
-                    title: "Company",
+                    title: "Specialties",
                     items: [
-                      { label: "About", href: "#" },
-                      { label: "Services", href: "#services" },
-                      { label: "Work", href: "#work" },
-                      { label: "Contact", href: "#contact" },
+                      { label: "Couples & Weddings", href: "#specialties" },
+                      { label: "Coastal Scenery", href: "#local-scenery" },
+                      { label: "Real Estate Property", href: "#specialties" },
+                      { label: "Land & Acreage", href: "#specialties" },
                     ],
                   },
                   {
-                    title: "Services",
+                    title: "North Myrtle Beach",
                     items: [
-                      { label: "Web Development", href: "#" },
-                      { label: "SEO", href: "#" },
-                      { label: "Branding", href: "#" },
-                      { label: "UI/UX Design", href: "#" },
+                      { label: "Cherry Grove Pier Aerials", href: "#local-scenery" },
+                      { label: "Oceanfront Estates", href: "#specialties" },
+                      { label: "Salt Marsh & Waterway", href: "#local-scenery" },
+                      { label: "Grand Strand Coastline", href: "#local-scenery" },
                     ],
                   },
                   {
-                    title: "Connect",
+                    title: "Flight Info",
                     items: [
-                      { label: "Twitter", href: "#" },
-                      { label: "LinkedIn", href: "#" },
-                      { label: "Instagram", href: "#" },
-                      { label: "Dribbble", href: "#" },
+                      { label: "FAA Part 107 Certified", href: "#specs" },
+                      { label: "Licensed & Insured in SC", href: "#specs" },
+                      { label: "Package Pricing", href: "#pricing" },
+                      { label: "Book a Flight", href: "#contact" },
                     ],
                   },
                 ]}
-                copyright="© 2026 Webild. All rights reserved."
+                copyright="© 2026 Vertical Lens Aviation. North Myrtle Beach, SC. All rights reserved."
                 links={[
+                  { label: "FAA Compliance", href: "#specs" },
                   { label: "Privacy Policy", href: "#" },
                   { label: "Terms of Service", href: "#" },
                 ]}
