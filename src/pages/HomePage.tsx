@@ -110,7 +110,7 @@ export default function HomePage() {
               description: "Panoramic 360-degree high-altitude drone overview of North Myrtle Beach.",
               buttonIcon: ArrowUpRight,
               buttonHref: "#contact",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/luxury-travel-agency/destination/destination1.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3LfZxSnU9hSlEaOYXn1eBLHqAHe/uploaded-1793908276550-2f1fkli6.jpg",
             },
           ]}
         />
