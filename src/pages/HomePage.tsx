@@ -5,6 +5,7 @@ import FeaturesDetailedCards from "@/components/sections/features/FeaturesDetail
 import FeaturesMediaCarousel from "@/components/sections/features/FeaturesMediaCarousel";
 import MetricsFeatureCards from "@/components/sections/metrics/MetricsFeatureCards";
 import TestimonialTrustCard from "@/components/sections/testimonial/TestimonialTrustCard";
+import GoogleReviewsSection from "@/components/sections/testimonial/GoogleReviewsSection";
 import PricingHighlightedCards from "@/components/sections/pricing/PricingHighlightedCards";
 import FaqSimple from "@/components/sections/faq/FaqSimple";
 import ContactSplitFormParallax from "@/components/sections/contact/ContactSplitFormParallax";
@@ -175,6 +176,10 @@ export default function HomePage() {
             { name: "Robert T.", imageSrc: "https://randomuser.me/api/portraits/men/75.jpg" },
           ]}
         />
+      </div>
+
+      <div id="google-reviews" data-section="google-reviews">
+        <GoogleReviewsSection textAnimation="fade-blur" />
       </div>
 
       <div id="pricing" data-section="pricing">

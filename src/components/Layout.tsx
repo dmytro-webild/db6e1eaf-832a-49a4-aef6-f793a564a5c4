@@ -15,6 +15,7 @@ export default function Layout() {
                   { name: "Specialties", href: "#specialties" },
                   { name: "Local Scenery", href: "#local-scenery" },
                   { name: "Flight Specs", href: "#specs" },
+                  { name: "Reviews", href: "#google-reviews" },
                   { name: "Pricing", href: "#pricing" },
                   { name: "Contact", href: "#contact" },
                 ]}
@@ -49,6 +50,7 @@ export default function Layout() {
                     items: [
                       { label: "FAA Part 107 Certified", href: "#specs" },
                       { label: "Licensed & Insured in SC", href: "#specs" },
+                      { label: "Google Reviews", href: "#google-reviews" },
                       { label: "Package Pricing", href: "#pricing" },
                       { label: "Book a Flight", href: "#contact" },
                     ],
