@@ -89,7 +89,7 @@ export default function HomePage() {
               description: "Cinematic aerial walk-through of a premier luxury oceanfront coastal estate.",
               buttonIcon: ArrowUpRight,
               buttonHref: "#contact",
-              imageSrc: "https://storage.googleapis.com/webild/default/templates/marbella/properties/villa-2.webp",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3LfZxSnU9hSlEaOYXn1eBLHqAHe/uploaded-1793909617981-i7h6ef2w.jpg",
             },
             {
               title: "Romantic Couple Beach Session",
